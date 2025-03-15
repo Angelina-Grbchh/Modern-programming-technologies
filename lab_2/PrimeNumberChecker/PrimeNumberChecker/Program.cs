@@ -4,7 +4,7 @@ namespace PrimeNumberChecker
 {
     public class Program
     {
-        public static void Main()
+        public static int Main()
         {
             try
             {
@@ -12,23 +12,23 @@ namespace PrimeNumberChecker
                 if (input == null)
                 {
                     Console.Error.WriteLine("No input provided.");
-                    Environment.Exit(1);
+                    return 1;
                 }
 
                 if (!int.TryParse(input, out int number))
                 {
                     Console.Error.WriteLine("Invalid input. Please enter a valid integer.");
-                    Environment.Exit(1);
+                    return 1;
                 }
 
                 bool result = PrimeNumberLib.PrimeChecker.IsPrime(number);
-                Console.WriteLine(result);
-                Environment.Exit(0);
+                Console.Out.WriteLine(result);
+                return 0;
             }
             catch (Exception ex)
             {
                 Console.Error.WriteLine($"Unexpected error: {ex.Message}");
-                Environment.Exit(1);
+                return 1;
             }
         }
     }

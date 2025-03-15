@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "PrimeNumberChecker.Tests\\PrimeCheckerTests.cs",
               "ToolTip": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\PrimeNumberChecker\\PrimeNumberChecker.Tests\\PrimeCheckerTests.cs",
               "RelativeToolTip": "PrimeNumberChecker.Tests\\PrimeCheckerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T14:47:30.787Z",
               "EditorCaption": ""
@@ -47,7 +47,8 @@
               "RelativeToolTip": "PrimeNumberLib\\PrimeChecker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T14:47:03.95Z"
+              "WhenOpened": "2025-03-15T14:47:03.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,9 +58,10 @@
               "RelativeDocumentMoniker": "PrimeNumberChecker\\Program.cs",
               "ToolTip": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\PrimeNumberChecker\\PrimeNumberChecker\\Program.cs",
               "RelativeToolTip": "PrimeNumberChecker\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T14:45:09.782Z"
+              "WhenOpened": "2025-03-15T14:45:09.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
