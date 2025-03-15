@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PrimeNumberChecker\PrimeNumberChecker.csproj" />
     <ProjectReference Include="..\PrimeNumberLib\PrimeNumberLib.csproj" />
   </ItemGroup>
 

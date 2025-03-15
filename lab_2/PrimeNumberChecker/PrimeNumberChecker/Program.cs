@@ -22,7 +22,7 @@ namespace PrimeNumberChecker
                 }
 
                 bool result = PrimeNumberLib.PrimeChecker.IsPrime(number);
-                Console.Out.WriteLine(result);
+                Console.WriteLine(result);
                 return 0;
             }
             catch (Exception ex)

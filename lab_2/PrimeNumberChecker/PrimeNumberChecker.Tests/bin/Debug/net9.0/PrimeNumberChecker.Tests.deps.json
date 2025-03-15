@@ -12,6 +12,7 @@
           "NUnit": "4.2.2",
           "NUnit.Analyzers": "4.4.0",
           "NUnit3TestAdapter": "4.6.0",
+          "PrimeNumberChecker": "1.0.0",
           "PrimeNumberLib": "1.0.0",
           "coverlet.collector": "6.0.2"
         },
@@ -303,6 +304,17 @@
       "NUnit.Analyzers/4.4.0": {},
       "NUnit3TestAdapter/4.6.0": {},
       "System.Reflection.Metadata/1.6.0": {},
+      "PrimeNumberChecker/1.0.0": {
+        "dependencies": {
+          "PrimeNumberLib": "1.0.0"
+        },
+        "runtime": {
+          "PrimeNumberChecker.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "PrimeNumberLib/1.0.0": {
         "runtime": {
           "PrimeNumberLib.dll": {
@@ -388,6 +400,11 @@
       "sha512": "sha512-COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
       "path": "system.reflection.metadata/1.6.0",
       "hashPath": "system.reflection.metadata.1.6.0.nupkg.sha512"
+    },
+    "PrimeNumberChecker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "PrimeNumberLib/1.0.0": {
       "type": "project",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\PrimeNumberChecker\\PrimeNumberChecker\\PrimeNumberChecker.csproj": {}
+    "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\2\\PrimeNumberChecker\\PrimeNumberChecker\\PrimeNumberChecker.csproj": {}
   },
   "projects": {
-    "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\PrimeNumberChecker\\PrimeNumberChecker\\PrimeNumberChecker.csproj": {
+    "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\2\\PrimeNumberChecker\\PrimeNumberChecker\\PrimeNumberChecker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\PrimeNumberChecker\\PrimeNumberChecker\\PrimeNumberChecker.csproj",
+        "projectUniqueName": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\2\\PrimeNumberChecker\\PrimeNumberChecker\\PrimeNumberChecker.csproj",
         "projectName": "PrimeNumberChecker",
-        "projectPath": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\PrimeNumberChecker\\PrimeNumberChecker\\PrimeNumberChecker.csproj",
+        "projectPath": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\2\\PrimeNumberChecker\\PrimeNumberChecker\\PrimeNumberChecker.csproj",
         "packagesPath": "C:\\Users\\При Ватан Го\\.nuget\\packages\\",
-        "outputPath": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\PrimeNumberChecker\\PrimeNumberChecker\\obj\\",
+        "outputPath": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\2\\PrimeNumberChecker\\PrimeNumberChecker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\PrimeNumberChecker\\PrimeNumberLib\\PrimeNumberLib.csproj": {
-                "projectPath": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\PrimeNumberChecker\\PrimeNumberLib\\PrimeNumberLib.csproj"
+              "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\2\\PrimeNumberChecker\\PrimeNumberLib\\PrimeNumberLib.csproj": {
+                "projectPath": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\2\\PrimeNumberChecker\\PrimeNumberLib\\PrimeNumberLib.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\PrimeNumberChecker\\PrimeNumberLib\\PrimeNumberLib.csproj": {
+    "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\2\\PrimeNumberChecker\\PrimeNumberLib\\PrimeNumberLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\PrimeNumberChecker\\PrimeNumberLib\\PrimeNumberLib.csproj",
+        "projectUniqueName": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\2\\PrimeNumberChecker\\PrimeNumberLib\\PrimeNumberLib.csproj",
         "projectName": "PrimeNumberLib",
-        "projectPath": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\PrimeNumberChecker\\PrimeNumberLib\\PrimeNumberLib.csproj",
+        "projectPath": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\2\\PrimeNumberChecker\\PrimeNumberLib\\PrimeNumberLib.csproj",
         "packagesPath": "C:\\Users\\При Ватан Го\\.nuget\\packages\\",
-        "outputPath": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\PrimeNumberChecker\\PrimeNumberLib\\obj\\",
+        "outputPath": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\2\\PrimeNumberChecker\\PrimeNumberLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
