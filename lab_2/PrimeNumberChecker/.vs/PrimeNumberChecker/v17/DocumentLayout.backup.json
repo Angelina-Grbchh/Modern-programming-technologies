@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\3\\PrimeNumberChecker\\",
+  "WorkspaceRootPath": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\PrimeNumberChecker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D74DFFC-16EF-42F2-9F40-2551BBA237CC}|PrimeNumberChecker\\PrimeNumberChecker.csproj|w:\\\u043C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\desktop\\\u043C\u043E\u0457 \u0443\u0440\u043E\u043A\u0438\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u0441\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\3\\primenumberchecker\\primenumberchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7125E2F6-7A46-4585-9667-172C4C1A6342}|PrimeNumberChecker.Tests\\PrimeNumberChecker.Tests.csproj|w:\\\u043C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\desktop\\\u043C\u043E\u0457 \u0443\u0440\u043E\u043A\u0438\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u0441\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\primenumberchecker\\primenumberchecker.tests\\primecheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7125E2F6-7A46-4585-9667-172C4C1A6342}|PrimeNumberChecker.Tests\\PrimeNumberChecker.Tests.csproj|solutionrelative:primenumberchecker.tests\\primecheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D74DFFC-16EF-42F2-9F40-2551BBA237CC}|PrimeNumberChecker\\PrimeNumberChecker.csproj|w:\\\u043C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\desktop\\\u043C\u043E\u0457 \u0443\u0440\u043E\u043A\u0438\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u0441\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\primenumberchecker\\primenumberchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D74DFFC-16EF-42F2-9F40-2551BBA237CC}|PrimeNumberChecker\\PrimeNumberChecker.csproj|solutionrelative:primenumberchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E14C9AD-4EE2-49C6-A31A-05789773E819}|PrimeNumberLib\\PrimeNumberLib.csproj|w:\\\u043C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\desktop\\\u043C\u043E\u0457 \u0443\u0440\u043E\u043A\u0438\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u0441\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\3\\primenumberchecker\\primenumberlib\\primechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E14C9AD-4EE2-49C6-A31A-05789773E819}|PrimeNumberLib\\PrimeNumberLib.csproj|w:\\\u043C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\desktop\\\u043C\u043E\u0457 \u0443\u0440\u043E\u043A\u0438\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u0441\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\primenumberchecker\\primenumberlib\\primechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E14C9AD-4EE2-49C6-A31A-05789773E819}|PrimeNumberLib\\PrimeNumberLib.csproj|solutionrelative:primenumberlib\\primechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7125E2F6-7A46-4585-9667-172C4C1A6342}|PrimeNumberChecker.Tests\\PrimeNumberChecker.Tests.csproj|w:\\\u043C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\desktop\\\u043C\u043E\u0457 \u0443\u0440\u043E\u043A\u0438\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u0441\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\3\\primenumberchecker\\primenumberchecker.tests\\primecheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7125E2F6-7A46-4585-9667-172C4C1A6342}|PrimeNumberChecker.Tests\\PrimeNumberChecker.Tests.csproj|solutionrelative:primenumberchecker.tests\\primecheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PrimeCheckerTests.cs",
-              "DocumentMoniker": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\3\\PrimeNumberChecker\\PrimeNumberChecker.Tests\\PrimeCheckerTests.cs",
+              "DocumentMoniker": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\PrimeNumberChecker\\PrimeNumberChecker.Tests\\PrimeCheckerTests.cs",
               "RelativeDocumentMoniker": "PrimeNumberChecker.Tests\\PrimeCheckerTests.cs",
-              "ToolTip": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\3\\PrimeNumberChecker\\PrimeNumberChecker.Tests\\PrimeCheckerTests.cs",
+              "ToolTip": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\PrimeNumberChecker\\PrimeNumberChecker.Tests\\PrimeCheckerTests.cs",
               "RelativeToolTip": "PrimeNumberChecker.Tests\\PrimeCheckerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAuwHQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T14:47:30.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PrimeChecker.cs",
-              "DocumentMoniker": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\3\\PrimeNumberChecker\\PrimeNumberLib\\PrimeChecker.cs",
+              "DocumentMoniker": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\PrimeNumberChecker\\PrimeNumberLib\\PrimeChecker.cs",
               "RelativeDocumentMoniker": "PrimeNumberLib\\PrimeChecker.cs",
-              "ToolTip": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\3\\PrimeNumberChecker\\PrimeNumberLib\\PrimeChecker.cs",
+              "ToolTip": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\PrimeNumberChecker\\PrimeNumberLib\\PrimeChecker.cs",
               "RelativeToolTip": "PrimeNumberLib\\PrimeChecker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T14:47:03.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T14:47:03.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\3\\PrimeNumberChecker\\PrimeNumberChecker\\Program.cs",
+              "DocumentMoniker": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\PrimeNumberChecker\\PrimeNumberChecker\\Program.cs",
               "RelativeDocumentMoniker": "PrimeNumberChecker\\Program.cs",
-              "ToolTip": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\3\\PrimeNumberChecker\\PrimeNumberChecker\\Program.cs",
+              "ToolTip": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab2\\PrimeNumberChecker\\PrimeNumberChecker\\Program.cs",
               "RelativeToolTip": "PrimeNumberChecker\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T14:45:09.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T14:45:09.782Z"
             },
             {
               "$type": "Bookmark",

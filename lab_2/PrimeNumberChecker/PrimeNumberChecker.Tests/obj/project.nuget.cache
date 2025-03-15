@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3RsKP92yuEE=",
+  "dgSpecHash": "scYFh8zvG94=",
   "success": true,
-  "projectFilePath": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\3\\PrimeNumberChecker\\PrimeNumberChecker.Tests\\PrimeNumberChecker.Tests.csproj",
+  "projectFilePath": "W:\\Мої папки\\Desktop\\МОЇ УРОКИ\\Універ\\Сучасні техн прог\\lab2\\PrimeNumberChecker\\PrimeNumberChecker.Tests\\PrimeNumberChecker.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\При Ватан Го\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\При Ватан Го\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
