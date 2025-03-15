@@ -1,0 +1,11 @@
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab2\3\PrimeNumberChecker\PrimeNumberLib\bin\Debug\net9.0\PrimeNumberLib.deps.json
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab2\3\PrimeNumberChecker\PrimeNumberLib\bin\Debug\net9.0\PrimeNumberLib.dll
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab2\3\PrimeNumberChecker\PrimeNumberLib\bin\Debug\net9.0\PrimeNumberLib.pdb
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab2\3\PrimeNumberChecker\PrimeNumberLib\obj\Debug\net9.0\PrimeNumberLib.GeneratedMSBuildEditorConfig.editorconfig
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab2\3\PrimeNumberChecker\PrimeNumberLib\obj\Debug\net9.0\PrimeNumberLib.AssemblyInfoInputs.cache
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab2\3\PrimeNumberChecker\PrimeNumberLib\obj\Debug\net9.0\PrimeNumberLib.AssemblyInfo.cs
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab2\3\PrimeNumberChecker\PrimeNumberLib\obj\Debug\net9.0\PrimeNumberLib.csproj.CoreCompileInputs.cache
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab2\3\PrimeNumberChecker\PrimeNumberLib\obj\Debug\net9.0\PrimeNumberLib.dll
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab2\3\PrimeNumberChecker\PrimeNumberLib\obj\Debug\net9.0\refint\PrimeNumberLib.dll
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab2\3\PrimeNumberChecker\PrimeNumberLib\obj\Debug\net9.0\PrimeNumberLib.pdb
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab2\3\PrimeNumberChecker\PrimeNumberLib\obj\Debug\net9.0\ref\PrimeNumberLib.dll

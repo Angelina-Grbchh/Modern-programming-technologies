@@ -1,37 +1,23 @@
 ﻿using System;
+using PrimeNumberLib;
 
-public class Program
+class Program
 {
-    static int Main(string[] args)
+    static void Main()
     {
-        try
-        {
-            string input = Console.ReadLine();
-            if (!int.TryParse(input, out int number))
-            {
-                Console.Error.WriteLine("Помилка: Введене значення не є цілим числом.");
-                return 1; 
-            }
+        Console.Write("Enter a number: ");
+        string input = Console.ReadLine();
 
-            bool isPrime = IsPrime(number);
+        if (int.TryParse(input, out int number))
+        {
+            bool isPrime = PrimeChecker.IsPrime(number);
             Console.WriteLine(isPrime);
-            return 0; 
+            Environment.Exit(0); // Успішний код виходу
         }
-        catch (Exception ex)
+        else
         {
-            Console.Error.WriteLine($"Помилка виконання: {ex.Message}");
-            return 2; 
+            Console.Error.WriteLine("Invalid input. Please enter a valid integer.");
+            Environment.Exit(1); // Помилковий код виходу
         }
-    }
-
-    public static bool IsPrime(int number)
-    {
-        if (number < 2) return false;
-        for (int i = 2; i * i <= number; i++)
-        {
-            if (number % i == 0)
-                return false;
-        }
-        return true;
     }
 }
