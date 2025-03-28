@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/cdGbAD/82A=",
+  "dgSpecHash": "LvjgJsaGgq0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\angel\\OneDrive\\Робочий стіл\\Універ\\Сучасні техн прог\\lab 3\\2\\AdapterPattern\\AdapterPattern.Tests\\AdapterPattern.Tests.csproj",
+  "projectFilePath": "C:\\Users\\angel\\OneDrive\\Робочий стіл\\Універ\\Сучасні техн прог\\lab 3\\AdapterPattern\\AdapterPattern.Tests\\AdapterPattern.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angel\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
