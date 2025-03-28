@@ -1,0 +1,14 @@
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\bin\Debug\net9.0\AdapterPattern.exe
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\bin\Debug\net9.0\AdapterPattern.deps.json
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\bin\Debug\net9.0\AdapterPattern.runtimeconfig.json
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\bin\Debug\net9.0\AdapterPattern.dll
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\bin\Debug\net9.0\AdapterPattern.pdb
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.dll
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\obj\Debug\net9.0\refint\AdapterPattern.dll
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.pdb
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\obj\Debug\net9.0\AdapterPattern.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Робочий стіл\Універ\Сучасні техн прог\lab 3\2\AdapterPattern\AdapterPattern\obj\Debug\net9.0\ref\AdapterPattern.dll
