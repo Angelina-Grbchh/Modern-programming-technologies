@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab4\\DeadlockDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A94C48C-2E75-48E2-906B-F0B064B731B4}|DeadlockDemo.Tests\\DeadlockDemo.Tests.csproj|w:\\\u043C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\desktop\\\u043C\u043E\u0457 \u0443\u0440\u043E\u043A\u0438\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u0441\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab4\\deadlockdemo\\deadlockdemo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A94C48C-2E75-48E2-906B-F0B064B731B4}|DeadlockDemo.Tests\\DeadlockDemo.Tests.csproj|solutionrelative:deadlockdemo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45523589-48B0-4984-8052-D9669B551EBF}|DeadlockDemo\\Deadlock.csproj|w:\\\u043C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\desktop\\\u043C\u043E\u0457 \u0443\u0440\u043E\u043A\u0438\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u0441\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab4\\deadlockdemo\\deadlockdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45523589-48B0-4984-8052-D9669B551EBF}|DeadlockDemo\\Deadlock.csproj|solutionrelative:deadlockdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab4\\DeadlockDemo\\DeadlockDemo.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DeadlockDemo.Tests\\UnitTest1.cs",
+              "ToolTip": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab4\\DeadlockDemo\\DeadlockDemo.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "DeadlockDemo.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:27:40.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab4\\DeadlockDemo\\DeadlockDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DeadlockDemo\\Program.cs",
+              "ToolTip": "W:\\\u041C\u043E\u0457 \u043F\u0430\u043F\u043A\u0438\\Desktop\\\u041C\u041E\u0407 \u0423\u0420\u041E\u041A\u0418\\\u0423\u043D\u0456\u0432\u0435\u0440\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D \u043F\u0440\u043E\u0433\\lab4\\DeadlockDemo\\DeadlockDemo\\Program.cs",
+              "RelativeToolTip": "DeadlockDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:24:12.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

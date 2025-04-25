@@ -1,0 +1,14 @@
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\bin\Debug\net9.0\DeadlockDemo.exe
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\bin\Debug\net9.0\DeadlockDemo.deps.json
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\bin\Debug\net9.0\DeadlockDemo.runtimeconfig.json
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\bin\Debug\net9.0\DeadlockDemo.dll
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\bin\Debug\net9.0\DeadlockDemo.pdb
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\obj\Debug\net9.0\DeadlockDemo.GeneratedMSBuildEditorConfig.editorconfig
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\obj\Debug\net9.0\DeadlockDemo.AssemblyInfoInputs.cache
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\obj\Debug\net9.0\DeadlockDemo.AssemblyInfo.cs
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\obj\Debug\net9.0\DeadlockDemo.csproj.CoreCompileInputs.cache
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\obj\Debug\net9.0\DeadlockDemo.dll
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\obj\Debug\net9.0\refint\DeadlockDemo.dll
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\obj\Debug\net9.0\DeadlockDemo.pdb
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\obj\Debug\net9.0\DeadlockDemo.genruntimeconfig.cache
+W:\Мої папки\Desktop\МОЇ УРОКИ\Універ\Сучасні техн прог\lab4\DeadlockDemo\DeadlockDemo\obj\Debug\net9.0\ref\DeadlockDemo.dll
