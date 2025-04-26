@@ -10,6 +10,12 @@ namespace DeadlockDemo
 
         public static void Main(string[] args)
         {
+            StartThreads();
+            Console.WriteLine("Програма завершена.");
+        }
+
+        public static void StartThreads()
+        {
             Thread thread1 = new Thread(DoWork1);
             Thread thread2 = new Thread(DoWork2);
 
@@ -18,8 +24,6 @@ namespace DeadlockDemo
 
             thread1.Join();
             thread2.Join();
-
-            Console.WriteLine("Програма завершена.");
         }
 
         public static void DoWork1()

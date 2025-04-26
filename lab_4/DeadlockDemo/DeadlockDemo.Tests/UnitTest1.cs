@@ -1,4 +1,5 @@
 ﻿using System.Threading;
+using System.Threading.Tasks;
 using Xunit;
 using DeadlockDemo;
 
@@ -7,18 +8,17 @@ namespace DeadlockDemo.Tests
     public class DeadlockTests
     {
         [Fact]
-        public void Deadlock_Should_Happen()
+        public async Task Deadlock_Should_Occur()
         {
-            Thread thread1 = new Thread(Program.DoWork1);
-            Thread thread2 = new Thread(Program.DoWork2);
+            var task = Task.Run(() => Program.StartThreads());
 
-            thread1.Start();
-            thread2.Start();
+            var timeoutTask = Task.Delay(2000);
 
-            bool finished1 = thread1.Join(2000);
-            bool finished2 = thread2.Join(2000);
+            var completedTask = await Task.WhenAny(task, timeoutTask);
 
-            Assert.False(finished1 && finished2, "Дедлок не виник: обидва потоки завершилися");
+            // Якщо повернувся timeoutTask, значить task завис → дедлок стався
+            // Якщо повернувся task, значить завдання завершилося → дедлоку нема
+            Assert.False(completedTask == task, "Очікувався дедлок, але потоки завершилися успішно.");
         }
     }
 }
